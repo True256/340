@@ -894,6 +894,56 @@ hr {
     background: #00ff00;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 1), inset 0 0 0 1px rgba(255, 255, 255, 0.60606);
     font-size: 25px; }
+  .tile.tile-810 .tile-inner {
+    color: #000000;
+    background: #00ff20;
+    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 1), inset 0 0 0 1px rgba(255, 255, 255, 0.60606);
+    font-size: 25px; }
+  .tile.tile-820 .tile-inner {
+    color: #000000;
+    background: #00ff40;
+    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 1), inset 0 0 0 1px rgba(255, 255, 255, 0.60606);
+    font-size: 25px; }
+  .tile.tile-830 .tile-inner {
+    color: #000000;
+    background: #00ff60;
+    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 1), inset 0 0 0 1px rgba(255, 255, 255, 0.60606);
+    font-size: 25px; }
+  .tile.tile-840 .tile-inner {
+    color: #000000;
+    background: #00ff80;
+    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 1), inset 0 0 0 1px rgba(255, 255, 255, 0.60606);
+    font-size: 25px; }
+  .tile.tile-850 .tile-inner {
+    color: #000000;
+    background: #00ffa0;
+    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 1), inset 0 0 0 1px rgba(255, 255, 255, 0.60606);
+    font-size: 25px; }
+  .tile.tile-860 .tile-inner {
+    color: #000000;
+    background: #00ffc0;
+    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 1), inset 0 0 0 1px rgba(255, 255, 255, 0.60606);
+    font-size: 25px; }
+  .tile.tile-870 .tile-inner {
+    color: #000000;
+    background: #00ffe0;
+    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 1), inset 0 0 0 1px rgba(255, 255, 255, 0.60606);
+    font-size: 25px; }
+  .tile.tile-880 .tile-inner {
+    color: #000000;
+    background: #00ffff;
+    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 1), inset 0 0 0 1px rgba(255, 255, 255, 0.60606);
+    font-size: 25px; }
+  .tile.tile-890 .tile-inner {
+    color: #000000;
+    background: #0080ff;
+    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 1), inset 0 0 0 1px rgba(255, 255, 255, 0.60606);
+    font-size: 25px; }
+  .tile.tile-900 .tile-inner {
+    color: #000000;
+    background: #0000ff;
+    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 1), inset 0 0 0 1px rgba(255, 255, 255, 0.60606);
+    font-size: 25px; }
 
 @-webkit-keyframes appear {
   0% {
